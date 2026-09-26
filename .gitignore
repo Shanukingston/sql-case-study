@@ -1,0 +1,8 @@
+data/raw/*
+!data/raw/README.md
+images/*
+!images/.gitkeep
+.venv/
+__pycache__/
+*.py[cod]
+.env
